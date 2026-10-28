@@ -1,0 +1,1 @@
+module.exports = { content: ['./src/**/*.{html,ts}'], theme: { extend: { colors: { primary: { DEFAULT: '#7C3AED', 50: '#F5F3FF', 100: '#EDE9FE', 300: '#C4B5FD', 500: '#8B5CF6', 700: '#6D28D9', 900: '#4C1D95' }, accent: { DEFAULT: '#FACC15', 400: '#FACC15' } }, boxShadow: { card: '0 1px 3px rgba(76,29,149,.08), 0 4px 14px rgba(76,29,149,.06)' } } }, plugins: [] };
